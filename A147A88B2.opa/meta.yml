@@ -1,0 +1,19 @@
+id: A147A88B2
+title: 'Thunderous Melody: In Praise of the Omniscient Gorampa Sonam Senge'
+type: translation
+pechas:
+- I2D9838D8
+- I53121F26
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:57:24.034037
+  last_modified_at: 2023-01-04 11:57:24.034044
+  collections:
+  - Gorampa Sonam Senge
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2D9838D8/4468: 949E
+  I53121F26/A500: 949E
